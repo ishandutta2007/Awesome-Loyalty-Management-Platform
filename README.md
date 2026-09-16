@@ -1,33 +1,43 @@
-# Awesome Loyalty Management Platform
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Loyalty Management Platform Banner" width="100%" />
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Tracked Topics](https://img.shields.io/badge/topics-loyalty--management-blue.svg)](https://github.com/ishandutta2007/Awesome-Loyalty-Management-Platform)
+# 🏆 Awesome Loyalty Management Platform
 
-## Top Loyalty Management Platforms & Open-Source Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Loyalty-Management-Platform"><img src="https://img.shields.io/badge/topics-loyalty--management-blue.svg" alt="Tracked Topics" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects for Customer Loyalty, Rewards, Points, VIP Tiers, Referrals & Customer Engagement Infrastructure.**
+## 🚀 Top Loyalty Management Platforms & Open-Source Ecosystem
 
-> **Market Overview**: The global loyalty management market is estimated at **$12.6B – $16.9B (2025)** and projected to reach **$14.8B – $19.8B (2026)**. The sector is **moderately fragmented**, featuring a mix of enterprise platforms, specialized vertical tools, and self-hosted open-source loyalty engines competing on AI personalization and API-first architecture.
+**Curated List of SaaS Products & Open-Source GitHub Projects for Customer Loyalty 🎁, Rewards 💎, Points 🪙, VIP Tiers 👑, Referrals 👥 & Customer Engagement Infrastructure ⚡.**
 
----
-
-## Table of Contents
-
-- [SaaS / Hosted Loyalty Platforms](#saas--hosted-loyalty-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-  - [Open-Source Loyalty Engines & Tools](#open-source-loyalty-engines--tools)
-  - [Open-Source Commerce & ERP Foundations](#open-source-commerce--erp-foundations)
-  - [Customer Engagement & Infrastructure](#customer-engagement--infrastructure)
-- [Building a Self-Hosted Loyalty Platform](#building-a-self-hosted-loyalty-platform)
-- [Commercial → Open-Source Equivalents](#commercial--open-source-equivalents)
-- [Recommended Open-Source Stacks](#recommended-open-source-stacks)
-- [Loyalty Management Architecture](#loyalty-management-architecture)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+> 📊 **Market Overview**: The global loyalty management market is estimated at **$12.6B – $16.9B (2025)** and projected to reach **$14.8B – $19.8B (2026)**. The sector is **moderately fragmented**, featuring a mix of enterprise platforms, specialized vertical tools, and self-hosted open-source loyalty engines competing on AI personalization and API-first architecture.
 
 ---
 
-## SaaS / Hosted Loyalty Platforms
+## 📑 Table of Contents
+
+- [💼 SaaS / Hosted Loyalty Platforms](#-saas--hosted-loyalty-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [⚙️ Open-Source Loyalty Engines & Tools](#️-open-source-loyalty-engines--tools)
+  - [🛒 Open-Source Commerce & ERP Foundations](#-open-source-commerce--erp-foundations)
+  - [📢 Customer Engagement & Infrastructure](#-customer-engagement--infrastructure)
+- [🏗️ Building a Self-Hosted Loyalty Platform](#️-building-a-self-hosted-loyalty-platform)
+- [🔄 Commercial → Open-Source Equivalents](#-commercial--open-source-equivalents)
+- [📦 Recommended Open-Source Stacks](#-recommended-open-source-stacks)
+- [📐 Loyalty Management Architecture](#-loyalty-management-architecture)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#️-disclaimer)
+- [📈 Star History](#-star-history)
+
+---
+
+## 💼 SaaS / Hosted Loyalty Platforms
 
 | Platform | Starting Price | Free Tier / Trial Limit | Company Size (Valuation / Revenue) | Key Features & Focus |
 | :--- | :--- | :--- | :--- | :--- |
@@ -54,11 +64,11 @@
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 The open-source loyalty ecosystem offers powerful, self-hosted building blocks for developers building custom rewards infrastructure, transactional points ledgers, or self-managed commerce integrations.
 
-### Open-Source Loyalty Engines & Tools
+### ⚙️ Open-Source Loyalty Engines & Tools
 
 * **[Open Loyalty](https://github.com/dpaczewski/open-loyalty)** [![GitHub stars](https://img.shields.io/github/stars/dpaczewski/open-loyalty?style=social&color=white)](https://github.com/dpaczewski/open-loyalty/stargazers)  
   Headless open-source loyalty engine with API-first support for points, rewards, tiers, transactions, and gamification workflows.
@@ -87,7 +97,7 @@ The open-source loyalty ecosystem offers powerful, self-hosted building blocks f
 * **[VirtoCommerce Loyalty](https://github.com/VirtoCommerce/vc-module-loyalty)** [![GitHub stars](https://img.shields.io/github/stars/VirtoCommerce/vc-module-loyalty?style=social&color=white)](https://github.com/VirtoCommerce/vc-module-loyalty/stargazers)  
   Modular loyalty extension for Virto Commerce supporting custom reward rules, points, and point-based payments.
 
-* **[Ballkit Platform](https://github.com/ballkit/ballkit-platform)** [![GitHub stars](https://img.shields.io/github/stars/ballkit/ballkit-platform?style=social&color=white)](https://github.com/ballkit/ballkit-platform?style=social&color=white)](https://github.com/ballkit/ballkit-platform/stargazers)  
+* **[Ballkit Platform](https://github.com/ballkit/ballkit-platform)** [![GitHub stars](https://img.shields.io/github/stars/ballkit/ballkit-platform?style=social&color=white)](https://github.com/ballkit/ballkit-platform/stargazers)  
   Self-hosted SMB loyalty platform with points rewards, store administration, and Telegram bot interaction.
 
 * **[LoyaltySystem](https://github.com/ryangillooly/LoyaltySystem)** [![GitHub stars](https://img.shields.io/github/stars/ryangillooly/LoyaltySystem?style=social&color=white)](https://github.com/ryangillooly/LoyaltySystem/stargazers)  
@@ -95,7 +105,7 @@ The open-source loyalty ecosystem offers powerful, self-hosted building blocks f
 
 ---
 
-### Open-Source Commerce & ERP Foundations
+### 🛒 Open-Source Commerce & ERP Foundations
 
 These popular open-source platforms provide native extensions, APIs, or data modules ideal for custom loyalty integration:
 
@@ -128,7 +138,7 @@ These popular open-source platforms provide native extensions, APIs, or data mod
 
 ---
 
-### Customer Engagement & Infrastructure
+### 📢 Customer Engagement & Infrastructure
 
 To operate a production loyalty infrastructure, companies rely on open-source data ledgers, notification pipes, and rule engines:
 
@@ -151,7 +161,7 @@ To operate a production loyalty infrastructure, companies rely on open-source da
 
 ---
 
-## Building a Self-Hosted Loyalty Platform
+## 🏗️ Building a Self-Hosted Loyalty Platform
 
 A scalable self-hosted loyalty architecture separates core event intake, rules processing, and transactional points accounting:
 
@@ -184,7 +194,7 @@ A scalable self-hosted loyalty architecture separates core event intake, rules p
 
 ---
 
-## Commercial → Open-Source Equivalents
+## 🔄 Commercial → Open-Source Equivalents
 
 | Commercial Platform | Open-Source Equivalent Stack |
 | :--- | :--- |
@@ -197,7 +207,7 @@ A scalable self-hosted loyalty architecture separates core event intake, rules p
 
 ---
 
-## Recommended Open-Source Stacks
+## 📦 Recommended Open-Source Stacks
 
 ### 1. Ecommerce Loyalty Stack
 - **Ecommerce**: Medusa or Spree Commerce
@@ -213,7 +223,7 @@ A scalable self-hosted loyalty architecture separates core event intake, rules p
 
 ---
 
-## Loyalty Management Architecture
+## 📐 Loyalty Management Architecture
 
 ```mermaid
 flowchart TD
@@ -230,7 +240,7 @@ flowchart TD
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. **Fork** the repository.
 2. Add your project under the appropriate section following alphabetical/star ordering.
@@ -239,7 +249,18 @@ flowchart TD
 
 ---
 
-## Disclaimer
+## 💖 Support & Sponsorship
+
+Thank you for exploring and using this curated ecosystem resource! If you find this repository helpful in building or evaluating loyalty platforms, please consider supporting the project:
+
+- ⭐️ **Star** this repository to increase its visibility for developers and businesses.
+- 🔀 **Fork** it to customize your own internal loyalty tech stack evaluation.
+- 📢 **Share** it with your engineering, product, and growth teams.
+- ☕ **Buy Me a Coffee / Sponsor**: Support further open-source research and maintenance on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
 
 - This list is **community-curated** for educational and research purposes.
 - SaaS pricing, features, and financial metrics reflect market estimates as of late 2026.
@@ -247,4 +268,10 @@ flowchart TD
 
 ---
 
-**Made for ecommerce brands, software engineers, product managers, and loyalty architects.**
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Loyalty-Management-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Loyalty-Management-Platform&type=date&legend=top-left)
+
+---
+
+**Made for ecommerce brands 🛍️, software engineers 💻, product managers 📊, and loyalty architects 🏛️.**
