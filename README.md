@@ -70,37 +70,37 @@ The open-source loyalty ecosystem offers powerful, self-hosted building blocks f
 
 ### ⚙️ Open-Source Loyalty Engines & Tools
 
-* **[Open Loyalty](https://github.com/dpaczewski/open-loyalty)** [![GitHub stars](https://img.shields.io/github/stars/dpaczewski/open-loyalty?style=social&color=white)](https://github.com/dpaczewski/open-loyalty/stargazers)  
+* **[Open Loyalty](https://github.com/dpaczewski/open-loyalty)** [![GitHub_Stars](https://img.shields.io/github/stars/dpaczewski/open-loyalty?style=social&color=white)](https://github.com/dpaczewski/open-loyalty/stargazers)  
   Headless open-source loyalty engine with API-first support for points, rewards, tiers, transactions, and gamification workflows.
 
-* **[Refref](https://github.com/amicalhq/refref)** [![GitHub stars](https://img.shields.io/github/stars/amicalhq/refref?style=social&color=white)](https://github.com/amicalhq/refref/stargazers)  
+* **[Refref](https://github.com/amicalhq/refref)** [![GitHub_Stars](https://img.shields.io/github/stars/amicalhq/refref?style=social&color=white)](https://github.com/amicalhq/refref/stargazers)  
   Open-source referral and affiliate marketing platform designed to build virality and reward mechanics into web applications.
 
-* **[Tezos Reward Distributor](https://github.com/tezos-reward-distributor-organization/tezos-reward-distributor)** [![GitHub stars](https://img.shields.io/github/stars/tezos-reward-distributor-organization/tezos-reward-distributor?style=social&color=white)](https://github.com/tezos-reward-distributor-organization/tezos-reward-distributor/stargazers)  
+* **[Tezos Reward Distributor](https://github.com/tezos-reward-distributor-organization/tezos-reward-distributor)** [![GitHub_Stars](https://img.shields.io/github/stars/tezos-reward-distributor-organization/tezos-reward-distributor?style=social&color=white)](https://github.com/tezos-reward-distributor-organization/tezos-reward-distributor/stargazers)  
   Automated reward distribution system for Tezos delegators and staking loyalty nodes.
 
-* **[Loyalty Bridge](https://github.com/KodeBarista/loyalty-bridge)** [![GitHub stars](https://img.shields.io/github/stars/KodeBarista/loyalty-bridge?style=social&color=white)](https://github.com/KodeBarista/loyalty-bridge/stargazers)  
+* **[Loyalty Bridge](https://github.com/KodeBarista/loyalty-bridge)** [![GitHub_Stars](https://img.shields.io/github/stars/KodeBarista/loyalty-bridge?style=social&color=white)](https://github.com/KodeBarista/loyalty-bridge/stargazers)  
   Open-source web-based loyalty management application for tracking customer loyalty coins, rewards, and discounts.
 
-* **[Loyalty Engine](https://github.com/PYAG1/loyalty-engine)** [![GitHub stars](https://img.shields.io/github/stars/PYAG1/loyalty-engine?style=social&color=white)](https://github.com/PYAG1/loyalty-engine/stargazers)  
+* **[Loyalty Engine](https://github.com/PYAG1/loyalty-engine)** [![GitHub_Stars](https://img.shields.io/github/stars/PYAG1/loyalty-engine?style=social&color=white)](https://github.com/PYAG1/loyalty-engine/stargazers)  
   Event-driven loyalty microservice demonstrating points earning, tier progression, referral bonuses, and customer segmentation.
 
-* **[Savvy](https://github.com/sbaerlocher/savvy)** [![GitHub stars](https://img.shields.io/github/stars/sbaerlocher/savvy?style=social&color=white)](https://github.com/sbaerlocher/savvy/stargazers)  
+* **[Savvy](https://github.com/sbaerlocher/savvy)** [![GitHub_Stars](https://img.shields.io/github/stars/sbaerlocher/savvy?style=social&color=white)](https://github.com/sbaerlocher/savvy/stargazers)  
   Self-hosted digital card management system for loyalty cards, vouchers, gift cards, and barcode scanning.
 
-* **[Shopify Loyalty System](https://github.com/daheige/loyalty-system)** [![GitHub stars](https://img.shields.io/github/stars/daheige/loyalty-system?style=social&color=white)](https://github.com/daheige/loyalty-system/stargazers)  
+* **[Shopify Loyalty System](https://github.com/daheige/loyalty-system)** [![GitHub_Stars](https://img.shields.io/github/stars/daheige/loyalty-system?style=social&color=white)](https://github.com/daheige/loyalty-system/stargazers)  
   Open-source backend engine for Shopify stores supporting points, tier benefits, expiration, referrals, and webhooks.
 
-* **[Spree Loyalty](https://github.com/amitkssolanki/spree_loyalty)** [![GitHub stars](https://img.shields.io/github/stars/amitkssolanki/spree_loyalty?style=social&color=white)](https://github.com/amitkssolanki/spree_loyalty/stargazers)  
+* **[Spree Loyalty](https://github.com/amitkssolanki/spree_loyalty)** [![GitHub_Stars](https://img.shields.io/github/stars/amitkssolanki/spree_loyalty?style=social&color=white)](https://github.com/amitkssolanki/spree_loyalty/stargazers)  
   Points loyalty extension for Spree Commerce featuring store credit redemptions and an auditable points ledger.
 
-* **[VirtoCommerce Loyalty](https://github.com/VirtoCommerce/vc-module-loyalty)** [![GitHub stars](https://img.shields.io/github/stars/VirtoCommerce/vc-module-loyalty?style=social&color=white)](https://github.com/VirtoCommerce/vc-module-loyalty/stargazers)  
+* **[VirtoCommerce Loyalty](https://github.com/VirtoCommerce/vc-module-loyalty)** [![GitHub_Stars](https://img.shields.io/github/stars/VirtoCommerce/vc-module-loyalty?style=social&color=white)](https://github.com/VirtoCommerce/vc-module-loyalty/stargazers)  
   Modular loyalty extension for Virto Commerce supporting custom reward rules, points, and point-based payments.
 
-* **[Ballkit Platform](https://github.com/ballkit/ballkit-platform)** [![GitHub stars](https://img.shields.io/github/stars/ballkit/ballkit-platform?style=social&color=white)](https://github.com/ballkit/ballkit-platform/stargazers)  
+* **[Ballkit Platform](https://github.com/ballkit/ballkit-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/ballkit/ballkit-platform?style=social&color=white)](https://github.com/ballkit/ballkit-platform/stargazers)  
   Self-hosted SMB loyalty platform with points rewards, store administration, and Telegram bot interaction.
 
-* **[LoyaltySystem](https://github.com/ryangillooly/LoyaltySystem)** [![GitHub stars](https://img.shields.io/github/stars/ryangillooly/LoyaltySystem?style=social&color=white)](https://github.com/ryangillooly/LoyaltySystem/stargazers)  
+* **[LoyaltySystem](https://github.com/ryangillooly/LoyaltySystem)** [![GitHub_Stars](https://img.shields.io/github/stars/ryangillooly/LoyaltySystem?style=social&color=white)](https://github.com/ryangillooly/LoyaltySystem/stargazers)  
   Multi-brand loyalty management system supporting stamp-based and points-based programs.
 
 ---
@@ -109,31 +109,31 @@ The open-source loyalty ecosystem offers powerful, self-hosted building blocks f
 
 These popular open-source platforms provide native extensions, APIs, or data modules ideal for custom loyalty integration:
 
-* **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+* **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   Open-source ERP suite featuring integrated POS, CRM, ecommerce, and customer loyalty program modules.
 
-* **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+* **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
   Open-source enterprise resource planning platform with native customer loyalty point management.
 
-* **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
+* **[Medusa](https://github.com/medusajs/medusa)** [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
   API-first headless commerce framework built for creating bespoke rewards, custom logic, and referral extensions.
 
-* **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
+* **[Saleor](https://github.com/saleor/saleor)** [![GitHub_Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
   GraphQL-driven headless commerce engine for integrating custom loyalty APIs and customer incentives.
 
-* **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
+* **[Spree Commerce](https://github.com/spree/spree)** [![GitHub_Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
   Ruby on Rails open-source ecommerce platform with built-in promotions and points ecosystem compatibility.
 
-* **[WooCommerce](https://github.com/woocommerce/woocommerce)** [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)  
+* **[WooCommerce](https://github.com/woocommerce/woocommerce)** [![GitHub_Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)  
   Flexible open-source ecommerce plugin for WordPress with extensive community loyalty extensions.
 
-* **[Squidex](https://github.com/Squidex/squidex)** [![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=social&color=white)](https://github.com/Squidex/squidex/stargazers)  
+* **[Squidex](https://github.com/Squidex/squidex)** [![GitHub_Stars](https://img.shields.io/github/stars/Squidex/squidex?style=social&color=white)](https://github.com/Squidex/squidex/stargazers)  
   Headless CMS and content management system frequently used to manage multi-channel loyalty campaign content.
 
-* **[Virto Commerce](https://github.com/VirtoCommerce/vc-platform)** [![GitHub stars](https://img.shields.io/github/stars/VirtoCommerce/vc-platform?style=social&color=white)](https://github.com/VirtoCommerce/vc-platform/stargazers)  
+* **[Virto Commerce](https://github.com/VirtoCommerce/vc-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/VirtoCommerce/vc-platform?style=social&color=white)](https://github.com/VirtoCommerce/vc-platform/stargazers)  
   Enterprise ASP.NET Core open-source commerce platform equipped with custom loyalty modules.
 
-* **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
+* **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
   Enterprise automation framework providing foundational models for complex customer loyalty and promotion rules.
 
 ---
@@ -142,22 +142,22 @@ These popular open-source platforms provide native extensions, APIs, or data mod
 
 To operate a production loyalty infrastructure, companies rely on open-source data ledgers, notification pipes, and rule engines:
 
-* **[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) — Observability dashboarding for real-time tracking of loyalty transaction rates.
-* **[Redis](https://github.com/redis/redis)** [![GitHub stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers) — In-memory data store for caching points balances and rate-limiting earning actions.
-* **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) — Enterprise data exploration & visualization platform for loyalty member analytics.
-* **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) — High-performance columnar database for real-time customer event analytics.
-* **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) — Open-source business intelligence tool for visualizing customer retention rates.
-* **[Novu](https://github.com/novuhq/novu)** [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) — Open-source notification infrastructure for triggering loyalty reward alerts via Email, SMS, and Push.
-* **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) — Product analytics platform to track user engagement and loyalty conversion funnels.
-* **[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers) — Simple HTTP-based pub-sub notification service for immediate loyalty alerts.
-* **[Apache Kafka](https://github.com/apache/kafka)** [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) — Distributed event-streaming platform for event-driven earning and redemption processing.
-* **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers) — High-performance self-hosted newsletter and customer campaign manager.
-* **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) — Durable execution framework for orchestrating long-running tier qualification workflows.
-* **[PostgreSQL](https://github.com/postgres/postgres)** [![GitHub stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers) — Relational SQL database for auditable double-entry loyalty ledgers.
-* **[NATS](https://github.com/nats-io/nats-server)** [![GitHub stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers) — Lightweight event messaging system for microservice loyalty architectures.
-* **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) — Policy engine for evaluating complex member eligibility rules.
-* **[Mautic](https://github.com/mautic/mautic)** [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers) — Open-source marketing automation engine for multi-stage loyalty drip campaigns.
-* **[Camunda](https://github.com/camunda/camunda)** [![GitHub stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers) — Process orchestration engine for enterprise loyalty workflows.
+* **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) — Observability dashboarding for real-time tracking of loyalty transaction rates.
+* **[Redis](https://github.com/redis/redis)** [![GitHub_Stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers) — In-memory data store for caching points balances and rate-limiting earning actions.
+* **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) — Enterprise data exploration & visualization platform for loyalty member analytics.
+* **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) — High-performance columnar database for real-time customer event analytics.
+* **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) — Open-source business intelligence tool for visualizing customer retention rates.
+* **[Novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) — Open-source notification infrastructure for triggering loyalty reward alerts via Email, SMS, and Push.
+* **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) — Product analytics platform to track user engagement and loyalty conversion funnels.
+* **[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub_Stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers) — Simple HTTP-based pub-sub notification service for immediate loyalty alerts.
+* **[Apache Kafka](https://github.com/apache/kafka)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) — Distributed event-streaming platform for event-driven earning and redemption processing.
+* **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers) — High-performance self-hosted newsletter and customer campaign manager.
+* **[Temporal](https://github.com/temporalio/temporal)** [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) — Durable execution framework for orchestrating long-running tier qualification workflows.
+* **[PostgreSQL](https://github.com/postgres/postgres)** [![GitHub_Stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers) — Relational SQL database for auditable double-entry loyalty ledgers.
+* **[NATS](https://github.com/nats-io/nats-server)** [![GitHub_Stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers) — Lightweight event messaging system for microservice loyalty architectures.
+* **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) — Policy engine for evaluating complex member eligibility rules.
+* **[Mautic](https://github.com/mautic/mautic)** [![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers) — Open-source marketing automation engine for multi-stage loyalty drip campaigns.
+* **[Camunda](https://github.com/camunda/camunda)** [![GitHub_Stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers) — Process orchestration engine for enterprise loyalty workflows.
 
 ---
 
